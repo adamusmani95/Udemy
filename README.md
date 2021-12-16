@@ -1,6 +1,6 @@
 # Udemy
 
-These notebooks come from a Udemy course: 
+These notebooks and CSV files come from a Udemy course: 
 
 'Data Science for Business: 6 Real World Case Studies'
 
@@ -19,3 +19,5 @@ https://www.kaggle.com/c/rossmann-store-sales/data
 https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
 
 6. Production/Manufacturing/Maintenance Department
+
+The end of the case studies are marked by 'EXCELLENT JOB!'. Up until this point I have carried out writing and understanding the code with the instructor of the course. After this point I have found ways to optimize the code and improve model performance. 
