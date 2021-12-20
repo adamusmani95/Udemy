@@ -14,6 +14,7 @@ https://www.kaggle.com/arjunbhasin2013/ccdata
 https://www.kaggle.com/c/rossmann-store-sales/data
 
 4. Operations Department
+5. https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 5. Public Relations Department
 https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels
