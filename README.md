@@ -2,7 +2,9 @@
 
 These notebooks and CSV files come from a Udemy course: 
 
-'Data Science for Business: 4 Real World Case Studies'
+'Data Science for Business: 6 Real World Case Studies'
+
+This repository covers the following 4 case studies:
 
 1. Human Resources Department 
 https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
